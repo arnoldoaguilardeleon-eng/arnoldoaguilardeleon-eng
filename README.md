@@ -113,13 +113,9 @@
   <img src="https://streak-stats.demolab.com?user=arnoldoaguilardeleon-eng&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-###
-
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arnoldoaguilardeleon-eng/arnoldoaguilardeleon-eng/main/dist/invaders.svg">
-    <img alt="commit invaders" src="https://raw.githubusercontent.com/arnoldoaguilardeleon-eng/arnoldoaguilardeleon-eng/main/dist/invaders.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arnoldoaguilardeleon-eng/arnoldoaguilardeleon-eng/pacman-output/pacman-contribution-graph-dark.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/arnoldoaguilardeleon-eng/arnoldoaguilardeleon-eng/pacman-output/pacman-contribution-graph.svg">
   </picture>
 </div>
-
-###
