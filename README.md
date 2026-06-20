@@ -116,6 +116,6 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arnoldoaguilardeleon-eng/arnoldoaguilardeleon-eng/main/dist/pacman.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/arnoldoaguilardeleon-eng/arnoldoaguilardeleon-eng/main/dist/pacman.svg">
+  <source media="(prefers-color-scheme: dark)" srcset=".github/workflows/pacman.yml">
+  <img alt="pacman contribution graph" src=".github/workflows/pacman.yml">
 </picture>
