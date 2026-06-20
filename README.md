@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 I'm Arnoldo</h1>
 
 <h3 align="center">Computer Systems Engineering Student | Future Cloud Network Engineer</h3>
- 
+
 ###
 
 <div align="center">
@@ -60,8 +60,6 @@
 
 ###
 
-###
-
 <h3 align="left">Lo que se nivel basico y a mejorar</h3>
 
 <div align="left">
@@ -90,59 +88,40 @@
 
 </div>
 
+###
 
-
-
-
-
-<h3 align="left">📁 Labs que ya armé</h3>
-
-<table>
-<tr>
-<td valign="top" width="55%">
-
-| Lab | Tecnologías |
-|---|---|
-| **Enterprise Network Lab** | VLAN, OSPF, VPN |
-| **OSPF Multiarea Lab** | Routing jerárquico |
-| **BGP Lab** | 3 AS, eBGP |
-| **Security & Firewall Lab** | ACL, NAT, DMZ |
-
-</td>
-<td valign="top" width="45%" align="center">
+<h3 align="left">Labs que ya armé</h3>
 
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjMxbG1wYXE3NGg2YmNucGtyaG01dm54eWN5MWg2ZG9odnZrbWh0aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WjGyM8rz4m43xPA2tw/giphy.gif"  />
 
-</td>
-</tr>
-</table>
+| Lab | De qué se trata |
+|---|---|
+| **Enterprise Network Lab** | 4 sucursales, VLAN, OSPF, VPN IPSec |
+| **OSPF Multiarea Lab** | Routing jerárquico, DHCP centralizado |
+| **BGP Lab** | 3 AS hablando entre sí como ISPs reales |
+| **Enterprise Security & Firewall Lab** | ACL, NAT/PAT, DMZ |
 
+<br clear="both">
 
+###
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
 </div>
 
-
-
 ###
 
-<h3 align="left">🔥 My Stats:</h3>
+<h3 align="left">My Stats:</h3>
 
-<table>
-<tr>
-<td valign="top" width="50%">
+<div align="center">
 
 ![arnoldoaguilardeleon-eng's Stats](https://github-readme-stats.vercel.app/api?username=arnoldoaguilardeleon-eng&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true)
 
-</td>
-<td valign="top" width="50%">
-
 ![arnoldoaguilardeleon-eng's Streak](https://github-readme-streak-stats.herokuapp.com/?user=arnoldoaguilardeleon-eng&theme=vision-friendly-dark&hide_border=true)
 
-</td>
-</tr>
-</table>
+</div>
+
+###
 
 <div align="center">
   <picture>
@@ -150,4 +129,5 @@
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/arnoldoaguilardeleon-eng/arnoldoaguilardeleon-eng/pacman-output/pacman-contribution-graph.svg">
   </picture>
 </div>
+
 ###
