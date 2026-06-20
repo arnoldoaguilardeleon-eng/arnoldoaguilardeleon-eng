@@ -90,7 +90,10 @@
 
 </div>
 
-###
+<img data-importer="image" align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+
+
 
 <h3 align="left">📁 Labs que ya armé</h3>
 
@@ -101,7 +104,8 @@
 |  **BGP Lab** | 3 sistemas autónomos hablando entre sí como ISPs reales |
 |  **Enterprise Security & Firewall Lab** | ACL, NAT/PAT, DMZ y publicación de servicios sin exponer la red interna |
 
-###
+
+
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -114,10 +118,8 @@
 <h3 data-importer="text" align="left">🔥   My Stats :</h3>
 
 ###
-
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+![arnoldoaguilardeleon-eng's Stats](https://github-readme-stats.vercel.app/api?username=arnoldoaguilardeleon-eng&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true)
+![arnoldoaguilardeleon-eng's Streak](https://github-readme-streak-stats.herokuapp.com/?user=arnoldoaguilardeleon-eng&theme=vision-friendly-dark&hide_border=true)
 
 ###
 
