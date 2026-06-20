@@ -62,7 +62,7 @@
 
 ###
 
-<h3 align="left">Lo que se nivel basico</h3>
+<h3 align="left">Lo que se nivel basico y a mejorar</h3>
 
 <div align="left">
   
@@ -92,19 +92,14 @@
 
 ###
 
-<h3 align="left">📂 Proyectos destacados</h3>
+<h3 align="left">📁 Labs que ya armé</h3>
 
-<div align="left">
-  
-  🔹 **Enterprise Network Lab** — Red multi-sucursal con VLAN, OSPF, VPN IPSec y Frame Relay
-  
-  🔹 **OSPF Multiarea Lab** — Diseño jerárquico de routing con DHCP centralizado y DNS distribuido
-  
-  🔹 **BGP Lab** — Comunicación entre sistemas autónomos (eBGP) simulando ISPs reales
-  
-  🔹 **Enterprise Security & Firewall Lab** — ACL, NAT/PAT, DMZ y publicación segura de servicios
-  
-</div>
+| Lab | De qué se trata |
+|---|---|
+|  **Enterprise Network Lab** | 4 sucursales, VLAN, OSPF, VPN IPSec, Frame Relay |
+|  **OSPF Multiarea Lab** | Routing jerárquico, DHCP centralizado, DNS distribuido |
+|  **BGP Lab** | 3 sistemas autónomos hablando entre sí como ISPs reales |
+|  **Enterprise Security & Firewall Lab** | ACL, NAT/PAT, DMZ y publicación de servicios sin exponer la red interna |
 
 ###
 
@@ -120,3 +115,7 @@
 
 ###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arnoldoaguilardeleon-eng/arnoldoaguilardeleon-eng/main/dist/pacman.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/arnoldoaguilardeleon-eng/arnoldoaguilardeleon-eng/main/dist/pacman.svg">
+</picture>
