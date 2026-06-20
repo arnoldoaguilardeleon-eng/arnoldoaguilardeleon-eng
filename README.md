@@ -1,7 +1,13 @@
 <h1 align="center">Hey 👋 I'm Arnoldo</h1>
-
 <h3 align="center">Computer Systems Engineering Student | Future Cloud Network Engineer</h3>
 
+###
+
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjMxbG1wYXE3NGg2YmNucGtyaG01dm54eWN5MWg2ZG9odnZrbWh0aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JcyUFHRRpWB79DyAzT/giphy.gif"  />
+</div>
+
+###
 ###
 
 <div align="center">
