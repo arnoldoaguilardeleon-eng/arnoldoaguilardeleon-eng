@@ -101,17 +101,18 @@
 <tr>
 <td valign="top" width="55%">
 
-| Lab | De qué se trata |
+| Lab | Tecnologías |
 |---|---|
-| **Enterprise Network Lab** | 4 sucursales, VLAN, OSPF, VPN IPSec |
-| **OSPF Multiarea Lab** | Routing jerárquico, DHCP centralizado |
-| **BGP Lab** | 3 AS hablando entre sí como ISPs reales |
-| **Enterprise Security & Firewall Lab** | ACL, NAT/PAT, DMZ |
+| **Enterprise Network Lab** | VLAN, OSPF, VPN |
+| **OSPF Multiarea Lab** | Routing jerárquico |
+| **BGP Lab** | 3 AS, eBGP |
+| **Security & Firewall Lab** | ACL, NAT, DMZ |
 
 </td>
 <td valign="top" width="45%" align="center">
 
-<img data-importer="image" align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjMxbG1wYXE3NGg2YmNucGtyaG01dm54eWN5MWg2ZG9odnZrbWh0aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WjGyM8rz4m43xPA2tw/giphy.gif"  />
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjMxbG1wYXE3NGg2YmNucGtyaG01dm54eWN5MWg2ZG9odnZrbWh0aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WjGyM8rz4m43xPA2tw/giphy.gif"  />
+
 </td>
 </tr>
 </table>
