@@ -107,11 +107,19 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
 </div>
 
+
+
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=arnoldoaguilardeleon-eng&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+<h3 data-importer="text" align="left">🔥   My Stats :</h3>
+
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
+###
 
 <div align="center">
   <picture>
@@ -119,3 +127,4 @@
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/arnoldoaguilardeleon-eng/arnoldoaguilardeleon-eng/pacman-output/pacman-contribution-graph.svg">
   </picture>
 </div>
+###
