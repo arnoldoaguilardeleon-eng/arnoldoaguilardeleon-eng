@@ -16,7 +16,6 @@ jobs:
     steps:
       - uses: goblinlordx/commit-invaders@v1
         with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           github_user_name: arnoldoaguilardeleon-eng
-          theme: github-dark
-          outputs: |
-            dist/invaders.svg
+          output_file: dist/invaders.svg
