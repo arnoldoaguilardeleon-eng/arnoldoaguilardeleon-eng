@@ -126,13 +126,22 @@
 
 ###
 
-<h3 data-importer="text" align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥 My Stats:</h3>
 
-###
+<table>
+<tr>
+<td valign="top" width="50%">
+
 ![arnoldoaguilardeleon-eng's Stats](https://github-readme-stats.vercel.app/api?username=arnoldoaguilardeleon-eng&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true)
+
+</td>
+<td valign="top" width="50%">
+
 ![arnoldoaguilardeleon-eng's Streak](https://github-readme-streak-stats.herokuapp.com/?user=arnoldoaguilardeleon-eng&theme=vision-friendly-dark&hide_border=true)
 
-###
+</td>
+</tr>
+</table>
 
 <div align="center">
   <picture>
