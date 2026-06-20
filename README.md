@@ -90,20 +90,31 @@
 
 </div>
 
-<img data-importer="image" align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjMxbG1wYXE3NGg2YmNucGtyaG01dm54eWN5MWg2ZG9odnZrbWh0aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WjGyM8rz4m43xPA2tw/giphy.gif"  />
+
 
 
 
 
 <h3 align="left">📁 Labs que ya armé</h3>
 
+<table>
+<tr>
+<td valign="top" width="55%">
+
 | Lab | De qué se trata |
 |---|---|
-|  **Enterprise Network Lab** | 4 sucursales, VLAN, OSPF, VPN IPSec, Frame Relay |
-|  **OSPF Multiarea Lab** | Routing jerárquico, DHCP centralizado, DNS distribuido |
-|  **BGP Lab** | 3 sistemas autónomos hablando entre sí como ISPs reales |
-|  **Enterprise Security & Firewall Lab** | ACL, NAT/PAT, DMZ y publicación de servicios sin exponer la red interna |
+| **Enterprise Network Lab** | 4 sucursales, VLAN, OSPF, VPN IPSec |
+| **OSPF Multiarea Lab** | Routing jerárquico, DHCP centralizado |
+| **BGP Lab** | 3 AS hablando entre sí como ISPs reales |
+| **Enterprise Security & Firewall Lab** | ACL, NAT/PAT, DMZ |
 
+</td>
+<td valign="top" width="45%" align="center">
+
+<img data-importer="image" align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjMxbG1wYXE3NGg2YmNucGtyaG01dm54eWN5MWg2ZG9odnZrbWh0aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WjGyM8rz4m43xPA2tw/giphy.gif"  />
+</td>
+</tr>
+</table>
 
 
 
