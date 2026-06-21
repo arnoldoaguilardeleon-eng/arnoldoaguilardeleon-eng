@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 I'm Arnoldo</h1>
 <h3 align="center">Computer Systems Engineering Student | Future Cloud Network Engineer</h3>
  
-###
+### 
 
 <div align="center">
   <img height="200" src="https://media.tenor.com/BDj2rvnpDpwAAAAd/anime-watch.gif"  />
