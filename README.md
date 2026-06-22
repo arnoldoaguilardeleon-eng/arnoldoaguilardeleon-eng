@@ -121,9 +121,9 @@
 
 <div align="center">
 
-![arnoldoaguilardeleon-eng's Stats](https://github-readme-stats.vercel.app/api?username=arnoldoaguilardeleon-eng&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true)
+![arnoldoaguilardeleon-eng's Stats](https://github-readme-stats.vercel.app/api?username=arnoldoaguilardeleon-eng&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
-![arnoldoaguilardeleon-eng's Streak](https://github-readme-streak-stats.herokuapp.com/?user=arnoldoaguilardeleon-eng&theme=vision-friendly-dark&hide_border=true)
+![arnoldoaguilardeleon-eng's Streak](https://github-readme-streak-stats.herokuapp.com/?user=arnoldoaguilardeleon-eng&theme=tokyonight&hide_border=true)
 
 </div>
 
