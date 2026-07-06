@@ -122,7 +122,8 @@
 
 <div align="center">
   
-![arnoldoaguilardeleon-eng's Stats](https://github-readme-stats.vercel.app/api?username=arnoldoaguilardeleon-eng&theme=dark&show_icons=true&hide_border=true&count_private=true)
+
+![arnoldoaguilardeleon-eng's Stats](https://githubreadmestats.vercel.app/apiusername=arnoldoaguilardeleoneng&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
   ![arnoldoaguilardeleon-eng's Streak](https://github-readme-streak-stats.herokuapp.com/?user=arnoldoaguilardeleon-eng&theme=dark&hide_border=true)
 </div>
