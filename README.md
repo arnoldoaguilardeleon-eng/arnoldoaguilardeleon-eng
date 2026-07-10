@@ -135,3 +135,8 @@
 </div>
 
 ###
+###
+<div align="center">
+  <img src="https://raw.githubusercontent.com/arnoldoaguilardeleon-eng/arnoldoaguilardeleon-eng/main/daily-puzzle.svg" width="360" alt="daily chess puzzle" />
+</div>
+###
