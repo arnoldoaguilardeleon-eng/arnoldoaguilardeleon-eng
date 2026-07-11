@@ -3,7 +3,7 @@
  
 ###   
 <div align="center"> 
-  <img height="200" src="https://images.steamusercontent.com/ugc/919178578052413882/A98B1817101CBF1739BBD165748F034B0D4F624D/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
+  <img height="200" src="https://images.steamusercontent.com/ugc/919178578052413882/A98B1817101CBF1739BBD165748F034B0D4F624D/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  /> 
 </div>
 
  
